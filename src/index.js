@@ -95,6 +95,7 @@ import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
 const components = [
   Pagination,
   Dialog,
+
   Autocomplete,
   Dropdown,
   DropdownMenu,
